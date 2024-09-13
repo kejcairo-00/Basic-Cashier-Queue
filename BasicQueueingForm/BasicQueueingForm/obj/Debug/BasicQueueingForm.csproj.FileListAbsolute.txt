@@ -1,0 +1,12 @@
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\bin\Debug\BasicQueueingForm.exe.config
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\bin\Debug\BasicQueueingForm.exe
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\bin\Debug\BasicQueueingForm.pdb
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.csproj.AssemblyReference.cache
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.QueueForm.resources
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.WindowsQueueForm.resources
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.Properties.Resources.resources
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.csproj.GenerateResource.cache
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.csproj.CoreCompileInputs.cache
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.exe
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.pdb
+C:\Users\Jericho Seriosa\Desktop\IntegProg C#\BasicQueueingForm\BasicQueueingForm\obj\Debug\BasicQueueingForm.CashierView.resources
